@@ -18,3 +18,20 @@
 #Zad 1
 # a = int(input())
 # for i in range(a):  print(i, ** 3 + 3, end = " ")
+#pre 2
+#Pętle for liczb trzycyfrowych podzielnych przez 13
+# for i in range(104, 1000, 13):
+#   print(i)
+#Pętle for liczb dwucyfrowych parzystych
+# for i in range (8, 100, 2):
+#   print(i)
+#Pętle for potęg cyfr: 0, 1, 4, 9, 16, ...81
+# for i in range(0, 10):
+#   print(i * i, end=" ")
+
+#Zad 3
+n = int(input(":D"))
+for i in range(n, n+1):
+   if n % i == 0:
+    print(i)
+
