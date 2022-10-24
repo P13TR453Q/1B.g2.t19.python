@@ -30,8 +30,29 @@
 #   print(i * i, end=" ")
 
 #Zad 3
-n = int(input(":D"))
-for i in range(n, n+1):
-   if n % i == 0:
-    print(i)
+# n = int(input(":D"))
+# for i in range(n, n+1):
+#    if n % i == 0:
+#     print(i)
 
+#Zad 4
+# suma = 0
+# for i in range(10, 100):
+#   suma = (suma + i)
+
+# print(suma)
+#Zad 5
+# a = int(input())
+# suma = (a * (a + 1) // 2)
+# for i in range(a - 1):
+#    b  = int(input())
+#    suma = suma - b
+  
+# print(suma)
+# #Zad 6
+c = int(input())
+a, b = 0, 1
+for i in range(c):
+  a, b = b , a + b
+
+  print(a, end=" ")
