@@ -50,9 +50,9 @@
   
 # print(suma)
 # #Zad 6
-c = int(input())
-a, b = 0, 1
-for i in range(c):
-  a, b = b , a + b
+# c = int(input())
+# a, b = 0, 1
+# for i in range(c):
+#   a, b = b , a + b
 
-  print(a, end=" ")
+#   print(a, end=" ")
