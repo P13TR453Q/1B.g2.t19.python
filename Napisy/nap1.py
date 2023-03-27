@@ -12,7 +12,7 @@
 # L.sort()
 # print(L)
 
-# s.sort() to jest błąd!!!]
+# s.sort() to jest błąd!!!
 
 #przechodzenie napis <-> lista (list i join)
 
